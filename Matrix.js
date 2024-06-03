@@ -7,7 +7,7 @@ canvas.width = window.innerWidth;
 var letters = '01'; // Characters that will fall down
 letters = letters.split('');
 
-var fontSize = 15;
+var fontSize = 17;
 var columns = canvas.width / fontSize;
 
 var drops = [];
